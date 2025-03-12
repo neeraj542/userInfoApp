@@ -10,7 +10,7 @@ A **React Native** app that fetches user data from an API and displays it in a *
 ## 📷 **Preview**
 🎥 **Watch the Demo Video** 👉 
 
-[![Watch the Video](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sitepen.com%2Fblog%2Fdoing-more-with-expo-using-custom-native-code&psig=AOvVaw1mO01i5L7VSQV2mIl4yMeU&ust=1741843504892000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDli_3mg4wDFQAAAAAdAAAAABAE)](https://drive.google.com/file/d/1KXDrX37dNTE0qP9Bl8K3pNF6NUEOtxKg/view)
+[![Watch the Video](https://media.sitepen.com/blog-images/2022/03/Doing-More-with-Expo_-Using-Custom-Native-Code-%E2%80%93-Optimized.1-1024x538.jpg)](https://drive.google.com/file/d/1KXDrX37dNTE0qP9Bl8K3pNF6NUEOtxKg/view)
 
 
 ---
