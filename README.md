@@ -9,7 +9,10 @@ A **React Native** app that fetches user data from an API and displays it in a *
 
 ## 📷 **Preview**
 🎥 **Watch the Demo Video** 👉 
-<iframe src="https://drive.google.com/file/d/1KXDrX37dNTE0qP9Bl8K3pNF6NUEOtxKg/preview" width="640" height="360" allow="autoplay"></iframe>
+## 📷 Preview
+
+[![Watch the Video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://drive.google.com/file/d/1KXDrX37dNTE0qP9Bl8K3pNF6NUEOtxKg/view)
+
 
 ---
 
