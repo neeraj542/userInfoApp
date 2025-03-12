@@ -11,15 +11,16 @@ export default function App() {
       <StatusBar barStyle="dark-content" backgroundColor="#fff" />
       <Stack.Navigator>
         <Stack.Screen
-          name="User-Info"
+          name="UserInfoApp"
           component={UserScreen}
           options={{
             headerStyle: {
-              backgroundColor: "#fff",
+              backgroundColor: "#0e0f14",
             },
             headerShadowVisible: false,
             headerTitleStyle: {
               fontWeight: "600",
+              color: "#fff",
             },
           }}
         />

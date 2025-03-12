@@ -7,6 +7,7 @@ const UserCard = ({ user }) => {
     <View style={styles.card}>
       <View style={styles.avatarContainer}>
         <Image source={{ uri: user.avatar }} style={styles.avatar} resizeMode="cover" />
+        <Text style={styles.name}>{`${user.first_name} ${user.last_name}`}</Text>
       </View>
 
       <View style={styles.infoContainer}>
@@ -49,7 +50,7 @@ const styles = StyleSheet.create({
     height: 120,
     borderRadius: 60,
     borderWidth: 3,
-    borderColor: "#f4511e",
+    borderColor: "#0e0f14",
   },
   infoContainer: {
     marginTop: 10,
@@ -59,6 +60,11 @@ const styles = StyleSheet.create({
     paddingVertical: 8,
     borderBottomWidth: 1,
     borderBottomColor: "#eee",
+  },
+  name: {
+    marginTop: 5,
+    fontSize: 16,
+    fontWeight: "bold",
   },
   label: {
     flex: 1,

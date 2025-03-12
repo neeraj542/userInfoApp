@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "user-x",
-    "slug": "user-x",
+    "name": "userInfoApp",
+    "slug": "userInfoApp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
